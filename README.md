@@ -88,6 +88,7 @@ const dipesh = {
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=linkedin,linux&perline=6"/>
 🌐 https://dipeshbham.com.np
 
 💻 https://github.com/dipeshchettry
