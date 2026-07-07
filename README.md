@@ -68,25 +68,7 @@ const dipesh = {
 
 ---
 
-# 📈 Most Used Languages
 
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshchettry&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dipeshchettry&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
 
 # ⚡ Current Goals
 
