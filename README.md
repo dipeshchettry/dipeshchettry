@@ -86,9 +86,9 @@ const dipesh = {
 
 # 🌎 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=linkedin,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=linkedin/> 
 🌐 https://dipeshbham.com.np
 
 💻 https://github.com/dipeshchettry
