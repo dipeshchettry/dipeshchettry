@@ -31,12 +31,12 @@
 ```javascript
 const dipesh = {
   location: "Nepal 🇳🇵",
-  role: "Founder & Full Stack Developer",
+  role: "Founder, Web Developer & Editor",
   website: "https://dipeshbham.com.np",
   currentFocus: [
-      "AI",
+      "Creating",
       "Modern Web Apps",
-      "Backend Development",
+      "Designing & Editing",
       "Automation"
   ],
   mission:
