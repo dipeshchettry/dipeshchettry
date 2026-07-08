@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24&text=Dipesh%20Bham&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20•%20Full%20Stack%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20,24&text=Dipesh%20Bham&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20•%20Full%20Stack%20Developer%20•%20Editor&descAlignY=58"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Dipesh Bham</h1>
